@@ -2,7 +2,7 @@
 
 ## 简介
 
-海豹骰工程代码合并仓库，用于实现全平台自动出包。
+海豹骰工程代码合并仓库，用于实现全平台自动出包。1
 
 使用 git submodule 机制整合以下四个仓库的代码
 - [sealdice-core](https://github.com/sealdice/sealdice-core)：海豹核心，即海豹的后端工程代码；
